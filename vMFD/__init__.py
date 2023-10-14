@@ -39,7 +39,7 @@ class vMFD:
                 Contains 300-dimensional vectors for 3 million words and phrases based on Google News dataset.
                 See https://code.google.com/archive/p/word2vec/ for details.
                 """,
-            "url": "https://raw.githubusercontent.com/yang3kc/VecOpt/main/vMFD/data/word_moral_googlenews.csv.gz",
+            "url": "https://raw.githubusercontent.com/ZeningDuan/vMFD/main/vMFD/data/word_moral_googlenews.csv.gz",
             "filename": "word_moral_googlenews.csv.gz",
         }
     }
