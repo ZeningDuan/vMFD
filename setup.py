@@ -5,7 +5,7 @@ with open("README.md") as f:
 
 setup(
     name="vMFD",
-    version="0.1",
+    version="0.2",
     description="Infer moral appeals from text",
     long_description=long_description,
     long_description_content_type='text/markdown',
