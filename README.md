@@ -9,6 +9,10 @@
 `vMFD` is an easy-to-use Python package for inferring moral appeals from text.
 It extends eMFD through word embedding and yields superior performance.
 
+
+If you find vMFD helpful, please consider to give it a star (top right corner) and cite the following article:
+Duan, Z., Shao, A., Hu, Y., Lee, H., Liao, X., Suh, Y., Kim, J., Yang, K.C., Chen, K., & Yang, S. (2023). Constructing Vec-tionaries to Extract Latent Message Features from Texts: A Case Study of Moral Appeals. arXiv, https://doi.org/10.48550/arXiv.2312.05990
+
 # Quick start
 
 ## Install
@@ -50,3 +54,7 @@ vo.calculate_valence("Trump is the best president")
 # Calculate all metrics
 vo.calculate_metrics("Trump is the best president")
 ```
+
+# Citation
+
+
