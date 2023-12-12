@@ -49,8 +49,14 @@ import vMFD
 
 vo = vMFD.vMFD()
 
-# Only calculate the valence
+# Only calculate the strength score
+vo.calculate_strength("Trump is the best president")
+
+# Only calculate the valence score
 vo.calculate_valence("Trump is the best president")
+
+# Only calculate the ambivalence score
+vo.calculate_ambivalence("Trump is the best president")
 
 # Calculate all metrics
 vo.calculate_metrics("Trump is the best president")
