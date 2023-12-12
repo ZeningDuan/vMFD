@@ -56,6 +56,11 @@ vo.calculate_valence("Trump is the best president")
 vo.calculate_metrics("Trump is the best president")
 ```
 
-# Citation
+# Application
+The vMFD has found application in various contexts, with publications organized chronologically as follows:
+Chen, K., Duan, Z., & Kim, S.(2024) Uncovering gender stereotypes in controversial science discourse: Evidence from computational text and visual analyses across digital platforms. Journal of Computer-Mediated Communication
+
+
+
 
 
