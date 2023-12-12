@@ -50,16 +50,16 @@ import vMFD
 vo = vMFD.vMFD()
 
 # Only calculate the strength score
-vo.calculate_strength("Trump is the best president")
+vo.calculate_strength("The only thing necessary for the triumph of evil is for good men to do nothing.")
 
 # Only calculate the valence score
-vo.calculate_valence("Trump is the best president")
+vo.calculate_valence("Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.")
 
 # Only calculate the ambivalence score
-vo.calculate_ambivalence("Trump is the best president")
+vo.calculate_ambivalence("A man goes to the supermarket once a week and buys a chicken. But before cooking the chicken, he has sexual intercourse with it. Then he cooks it and eats it.")
 
 # Calculate all metrics
-vo.calculate_metrics("Trump is the best president")
+vo.calculate_metrics("A man goes to the supermarket once a week and buys a chicken. But before cooking the chicken, he has sexual intercourse with it. Then he cooks it and eats it.")
 ```
 
 # Application
