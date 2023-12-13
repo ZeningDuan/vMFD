@@ -10,8 +10,9 @@
 
 | Measurement metric name | Note |
 |---------------|------|
-| Strength score    | ranges from 0 to 1, with larger values indicating a stronger foundation-specific moral appeal in the document regardless of valence!
-|
+| Strength    | This score ranges from 0 to 1, with larger values indicating a stronger foundation-specific moral appeal in the document regardless of valence.|
+| Valence    | This score ranges from -1 to 1, This metric evaluates whether a document predominantly employs one side of a target moral appeal, either virtue or vice. A higher Valence score indicates the use of more virtue-dominated moral appeal, and a negative Valence score indicates vice-dominated moral expressions.|
+| Ambivalence   | This score ranges from 0 to 1. This metric captures the variability in word-level moral appeals in a document. A higher ambivalence score indicates a stronger co-presence of both virtue- and vice-related expressions.|
 
 If you find vMFD helpful, please kindly consider to give it a star (top right corner) and cite the following article, which outlines the fundamental model design of vMFD:
 
