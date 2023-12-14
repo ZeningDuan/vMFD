@@ -55,7 +55,7 @@ import vMFD
 vo = vMFD.vMFD()
 
 # Only calculate the strength score
-vo.calculate_strength("The only thing necessary for the triumph of evil is for good men to do nothing.")
+vo.calculate_strength("Former President Donald Trump is on trial in New York in a $250 million civil lawsuit that could alter the personal fortune and real estate empire that helped propel Trump to the White House.")
 
 # Only calculate the valence score
 vo.calculate_valence("Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.")
