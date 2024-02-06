@@ -23,8 +23,7 @@ Duan, Z., Shao, A., Hu, Y., Lee, H., Liao, X., Suh, Y., Kim, J., Yang, K.C., Che
 
 ## Install
 
-After cloning this repo to your computer, go to the directory where `setup.py` resides and use the following command to install the package:
-
+You can install the package with the following command:
 ```bash
 pip install vMFD
 ```
