@@ -16,8 +16,16 @@
 
 If you find vMFD helpful, please kindly consider to give it a star (top right corner) and cite the following article, which outlines the fundamental model design of vMFD:
 
-
-Duan, Z., Shao, A., Hu, Y., Lee, H., Liao, X., Suh, Y., Kim, J., Yang, K.C., Chen, K., & Yang, S. (2023). Constructing Vec-tionaries to Extract Latent Message Features from Texts: A Case Study of Moral Appeals. *arXiv*, https://doi.org/10.48550/arXiv.2312.05990
+```bibtex
+@article{duan2025constructing,
+	title={Constructing Vec-tionaries to Extract Message Features from Texts: A Case Study of Moral Content},
+	DOI={10.1017/pan.2025.6},
+	journal={Political Analysis},
+	author={Duan, Zening and Shao, Anqi and Hu, Yicheng and Lee, Heysung and Liao, Xining and Suh, Yoo Ji and Kim, Jisoo and Yang, Kai-Cheng and Chen, Kaiping and Yang, Sijia},
+	year={2025},
+	pages={1-21}
+}
+```
 
 # Quick start
 
@@ -69,9 +77,4 @@ vo.calculate_metrics("A man goes to the supermarket once a week and buys a chick
 # Application
 The vMFD has found application in various contexts, with publications organized chronologically as follows:
 
-Chen, K., Duan, Z., & Kim, S.(2024) Uncovering gender stereotypes in controversial science discourse: Evidence from computational text and visual analyses across digital platforms. *Journal of Computer-Mediated Communication*
-
-
-
-
-
+- Chen, K., Duan, Z., & Kim, S.(2024) Uncovering gender stereotypes in controversial science discourse: Evidence from computational text and visual analyses across digital platforms. *Journal of Computer-Mediated Communication*
